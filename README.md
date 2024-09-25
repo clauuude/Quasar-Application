@@ -1,6 +1,7 @@
 # Vue 3 Quasar Web Application
 
 A Quasar Project with Pinia library and state management framework.
+(For future reference Purposes)
 
 ## Install the dependencies
 ```bash
